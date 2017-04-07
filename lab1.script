@@ -1,0 +1,13 @@
+Script started on 2017年04月07日 (週五) 11時20分22秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m whoami; pwd
+pd2vm
+/home/pd2vm
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git config -l
+user.email=wyse_wong2005@hotmail.com
+user.name=lilacK
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git clone httt[Kps[Ks://github.com/LILAC[K[K[K[K[KlilacK/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m 
+Script done on 2017年04月07日 (週五) 11時21分31秒
